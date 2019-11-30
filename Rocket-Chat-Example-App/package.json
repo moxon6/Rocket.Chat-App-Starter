@@ -1,0 +1,12 @@
+{
+    "devDependencies": {
+        "@rocket.chat/apps-engine": "^1.4.0",
+        "@types/node": "^10.12.14",
+        "tslint": "^5.10.0",
+        "typescript": "^2.9.1"
+    },
+    "scripts": {
+        "deploy": "rc-apps deploy --url http://rocketchat:3000 --username $USERNAME --password $PASSWORD",
+        "deploy-update": "npm run deploy -- --update"
+    }
+}

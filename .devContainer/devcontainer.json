@@ -1,0 +1,15 @@
+{
+	"name": "Rocket.Chat App Development Environment",
+
+	"dockerComposeFile": "docker-compose.yml",
+
+	"service": "develop",
+
+	"workspaceFolder": "/workspace",
+
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+
+	"extensions": []
+}

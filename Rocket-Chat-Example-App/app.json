@@ -1,0 +1,15 @@
+{
+    "id": "39569d97-97c2-46d6-88ca-b52c0d823513",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Martin Moxon",
+        "homepage": "https://github.com/moxon6",
+        "support": "https://github.com/moxon6"
+    },
+    "name": "Example App",
+    "nameSlug": "example-app",
+    "classFile": "ExampleApp.ts",
+    "description": "Just returns the word example"
+}
